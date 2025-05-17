@@ -1,0 +1,187 @@
+[
+
+    {
+        "text": "NIFTY 50",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=9"
+    },
+    {
+        "text": "NIFTY BANK",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=23"
+    },
+    {
+        "text": "NIFTY Midcap 100",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=27"
+    },
+    {
+        "text": "NIFTY NEXT 50",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=6"
+    },
+    {
+        "text": "NIFTY 100",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=28"
+    },
+    {
+        "text": "Nifty 200",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=49"
+    },
+    {
+        "text": "NIFTY 500",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=7"
+    },
+    {
+        "text": "NIFTY Smallcap 100",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=53"
+    },
+    {
+        "text": "NIFTY MIDCAP 50",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=31"
+    },
+    {
+        "text": "NIFTY SMLCAP 50",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=113"
+    },
+    {
+        "text": "India VIX",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=36"
+    },
+    {
+        "text": "NIFTY Auto",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=52"
+    },
+    {
+        "text": "NIFTY IT",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=19"
+    },
+    {
+        "text": "NIFTY PSU Bank",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=43"
+    },
+    {
+        "text": "NIFTY Fin Service",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=47"
+    },
+    {
+        "text": "NIFTY Pharma",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=41"
+    },
+    {
+        "text": "NIFTY FMCG",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=39"
+    },
+    {
+        "text": "NIFTY Metal",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=51"
+    },
+    {
+        "text": "NIFTY Realty",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=34"
+    },
+    {
+        "text": "NIFTY Media",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=50"
+    },
+    {
+        "text": "NIFTY Energy",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=38"
+    },
+    {
+        "text": "Nifty Pvt Bank",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=79"
+    },
+    {
+        "text": "NIFTY Infra",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=35"
+    },
+    {
+        "text": "NIFTY Commodities",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=48"
+    },
+    {
+        "text": "NIFTY Consumption",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=56"
+    },
+    {
+        "text": "NIFTY PSE",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=42"
+    },
+    {
+        "text": "NIFTY Services",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=44"
+    },
+    {
+        "text": "NIFTY MIDCAP 150",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=111"
+    },
+    {
+        "text": "NIFTY MIDSML 400",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=112"
+    },
+    {
+        "text": "NIFTY SMLCAP 250",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=114"
+    },
+    {
+        "text": "NIFTY MNC",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=40"
+    },
+    {
+        "text": "Nifty FinSrv25/50",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=118"
+    },
+    {
+        "text": "NIFTY AlphaLowVol 30",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=119"
+    },
+    {
+        "text": "Nifty200 Momentum 30",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=120"
+    },
+    {
+        "text": "Nifty Cons Durbl",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=122"
+    },
+    {
+        "text": "Nifty Healthcare",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=123"
+    },
+    {
+        "text": "Nifty LargeMid250",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=124"
+    },
+    {
+        "text": "Nifty500 Mul50:25:25",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=125"
+    },
+    {
+        "text": "Nifty Oil & Gas",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=126"
+    },
+    {
+        "text": "NIFTY CPSE",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=61"
+    },
+    {
+        "text": "NIFTY MID SELECT",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=128"
+    },
+    {
+        "text": "NIFTY IND DIGITAL",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=130"
+    },
+    {
+        "text": "NIFTY M150 QLTY50",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=132"
+    },
+    {
+        "text": "NIFTY India Mfg",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=133"
+    },
+    {
+        "text": "Nifty Microcap 250",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=135"
+    },
+    {
+        "text": "NIFTY TOTAL MKT",
+        "href": "https://www.moneycontrol.com/stocks/marketstats/indexcomp.php?optex=NSE&opttopic=indexcomp&index=136"
+    }
+]
