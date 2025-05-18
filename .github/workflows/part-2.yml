@@ -35,4 +35,4 @@ jobs:
         M_TOKEN: ${{ secrets.M_TOKEN }}
 
       run: |
-        xvfb-run --auto-servernum --server-args='-screen 0 1920x1080x24' python file.py
+        python file.py
